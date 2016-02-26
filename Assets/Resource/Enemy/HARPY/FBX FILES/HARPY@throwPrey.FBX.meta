@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: 95127f4150913a64988d3b84218106a6
+timeCreated: 1456040114
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: HARPY_
+    100004: HARPY_ Footsteps
+    100006: HARPY_ Head
+    100008: HARPY_ L Calf
+    100010: HARPY_ L Clavicle
+    100012: HARPY_ L Finger0
+    100014: HARPY_ L Foot
+    100016: HARPY_ L Forearm
+    100018: HARPY_ L Hand
+    100020: HARPY_ L Thigh
+    100022: HARPY_ L Toe0
+    100024: HARPY_ L Toe01
+    100026: HARPY_ L Toe02
+    100028: HARPY_ L Toe1
+    100030: HARPY_ L Toe11
+    100032: HARPY_ L Toe12
+    100034: HARPY_ L Toe2
+    100036: HARPY_ L Toe21
+    100038: HARPY_ L Toe22
+    100040: HARPY_ L Toe3
+    100042: HARPY_ L Toe31
+    100044: HARPY_ L Toe32
+    100046: HARPY_ L UpperArm
+    100048: HARPY_ Neck
+    100050: HARPY_ Pelvis
+    100052: HARPY_ Queue de cheval 1
+    100054: HARPY_ Queue de cheval 11
+    100056: HARPY_ Queue de cheval 12
+    100058: HARPY_ Queue de cheval 13
+    100060: HARPY_ Queue de cheval 14
+    100062: HARPY_ Queue de cheval 15
+    100064: HARPY_ Queue de cheval 16
+    100066: HARPY_ Queue de cheval 2
+    100068: HARPY_ R Calf
+    100070: HARPY_ R Clavicle
+    100072: HARPY_ R Finger0
+    100074: HARPY_ R Foot
+    100076: HARPY_ R Forearm
+    100078: HARPY_ R Hand
+    100080: HARPY_ R Thigh
+    100082: HARPY_ R Toe0
+    100084: HARPY_ R Toe01
+    100086: HARPY_ R Toe02
+    100088: HARPY_ R Toe1
+    100090: HARPY_ R Toe11
+    100092: HARPY_ R Toe12
+    100094: HARPY_ R Toe2
+    100096: HARPY_ R Toe21
+    100098: HARPY_ R Toe22
+    100100: HARPY_ R Toe3
+    100102: HARPY_ R Toe31
+    100104: HARPY_ R Toe32
+    100106: HARPY_ R UpperArm
+    100108: HARPY_ Spine
+    100110: HARPY_ Spine1
+    100112: HARPY_ Tail
+    100114: HARPY_BREAST_L
+    100116: HARPY_BREAST_R
+    400000: //RootNode
+    400002: HARPY_
+    400004: HARPY_ Footsteps
+    400006: HARPY_ Head
+    400008: HARPY_ L Calf
+    400010: HARPY_ L Clavicle
+    400012: HARPY_ L Finger0
+    400014: HARPY_ L Foot
+    400016: HARPY_ L Forearm
+    400018: HARPY_ L Hand
+    400020: HARPY_ L Thigh
+    400022: HARPY_ L Toe0
+    400024: HARPY_ L Toe01
+    400026: HARPY_ L Toe02
+    400028: HARPY_ L Toe1
+    400030: HARPY_ L Toe11
+    400032: HARPY_ L Toe12
+    400034: HARPY_ L Toe2
+    400036: HARPY_ L Toe21
+    400038: HARPY_ L Toe22
+    400040: HARPY_ L Toe3
+    400042: HARPY_ L Toe31
+    400044: HARPY_ L Toe32
+    400046: HARPY_ L UpperArm
+    400048: HARPY_ Neck
+    400050: HARPY_ Pelvis
+    400052: HARPY_ Queue de cheval 1
+    400054: HARPY_ Queue de cheval 11
+    400056: HARPY_ Queue de cheval 12
+    400058: HARPY_ Queue de cheval 13
+    400060: HARPY_ Queue de cheval 14
+    400062: HARPY_ Queue de cheval 15
+    400064: HARPY_ Queue de cheval 16
+    400066: HARPY_ Queue de cheval 2
+    400068: HARPY_ R Calf
+    400070: HARPY_ R Clavicle
+    400072: HARPY_ R Finger0
+    400074: HARPY_ R Foot
+    400076: HARPY_ R Forearm
+    400078: HARPY_ R Hand
+    400080: HARPY_ R Thigh
+    400082: HARPY_ R Toe0
+    400084: HARPY_ R Toe01
+    400086: HARPY_ R Toe02
+    400088: HARPY_ R Toe1
+    400090: HARPY_ R Toe11
+    400092: HARPY_ R Toe12
+    400094: HARPY_ R Toe2
+    400096: HARPY_ R Toe21
+    400098: HARPY_ R Toe22
+    400100: HARPY_ R Toe3
+    400102: HARPY_ R Toe31
+    400104: HARPY_ R Toe32
+    400106: HARPY_ R UpperArm
+    400108: HARPY_ Spine
+    400110: HARPY_ Spine1
+    400112: HARPY_ Tail
+    400114: HARPY_BREAST_L
+    400116: HARPY_BREAST_R
+    7400000: Take 001
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: "\nDefault bone length found in this file is different
+      form the one found in the source avatar:\n\t'HARPY_ L Thigh' : position error
+      = 29.286386 mm\n\t'HARPY_ R Thigh' : position error = 24.789530 mm\n\nClip 'Take
+      001' has import animation warnings that might lower retargeting quality:\n\t'HARPY_
+      L Thigh' has translation animation that will be discarded.\n\t'HARPY_ R Thigh'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 1
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human:
+    - boneName: HARPY_ Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: HARPY_ R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: HARPY(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_
+      position: {x: 0, y: 0.94924176, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: HARPY_ Footsteps
+      position: {x: -0, y: 0, z: -0.949242}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ Pelvis
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 0.9999999, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ Spine
+      position: {x: -0.10223869, y: -0.0001390784, z: 0.00000014197735}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999998}
+      transformModified: 1
+    - name: HARPY_ Spine1
+      position: {x: -0.17471886, y: -0.00017254203, z: -4.7856247e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ Neck
+      position: {x: -0.24200279, y: -0.007814685, z: -0.000000011103509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Clavicle
+      position: {x: 0.009710693, y: 0.007802176, z: 0.029930945}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000001, y: 0.9999995, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ L UpperArm
+      position: {x: -0.12132444, y: 0.0000000011920929, z: 0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000005, z: 1.0000006}
+      transformModified: 1
+    - name: HARPY_ L Forearm
+      position: {x: -0.5098666, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ L Hand
+      position: {x: -0.3863504, y: 0, z: -0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000001, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ L Finger0
+      position: {x: -0.3573994, y: 0, z: 0}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ R Clavicle
+      position: {x: 0.009710693, y: 0.007802342, z: -0.029930923}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ R UpperArm
+      position: {x: -0.12132444, y: 0.0000000017881393, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Forearm
+      position: {x: -0.5098666, y: 0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ R Hand
+      position: {x: -0.3863504, y: 0, z: 0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000005}
+      transformModified: 1
+    - name: HARPY_ R Finger0
+      position: {x: -0.3573994, y: -0.000000038146972, z: 0.00000015258789}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 0.9999993, y: 0.9999994, z: 0.9999996}
+      transformModified: 1
+    - name: HARPY_ Head
+      position: {x: -0.104673, y: -5.9604643e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 1
+      position: {x: -0.033822477, y: -0.08953929, z: -0.00000013039381}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 0.99999964, z: 1}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 11
+      position: {x: -0.08111954, y: -0.00013053893, z: -3.6205164e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999994, z: 0.99999976}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 12
+      position: {x: -0.16390991, y: -0.0001410675, z: -3.9144651e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 13
+      position: {x: -0.17702225, y: -0.00015205384, z: -4.2142345e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 14
+      position: {x: -0.19109729, y: -0.00017486572, z: -4.8516086e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000002}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 15
+      position: {x: -0.21971267, y: -0.00018188477, z: -5.046604e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 16
+      position: {x: -0.2282956, y: -0.00012779236, z: -3.5448464e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ Queue de cheval 2
+      position: {x: -0.030825194, y: 0.020151615, z: -0.000000055204254}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_BREAST_L
+      position: {x: -0.1014801, y: 0.060054976, z: 0.07500008}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_BREAST_R
+      position: {x: -0.10147995, y: 0.06005519, z: -0.074999996}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ Tail
+      position: {x: 0.09368087, y: -0.12398914, z: -0.00000026104004}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Thigh
+      position: {x: 0.10223862, y: 0.00022022962, z: 0.10986132}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 0.9999998, y: 1, z: 0.9999997}
+      transformModified: 1
+    - name: HARPY_ L Calf
+      position: {x: -0.42758486, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ L Foot
+      position: {x: -0.42758492, y: -0.000000009536743, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ L Toe1
+      position: {x: -0.0983445, y: 0.116291136, z: -0.056124583}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999976, z: 0.99999964}
+      transformModified: 1
+    - name: HARPY_ L Toe11
+      position: {x: -0.058834877, y: -1.8189894e-14, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Toe12
+      position: {x: -0.069687895, y: 1.8189894e-14, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Toe2
+      position: {x: -0.0983445, y: 0.1347908, z: -0.010794363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ L Toe21
+      position: {x: -0.06280958, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ L Toe22
+      position: {x: -0.06958887, y: -3.6379787e-14, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Toe3
+      position: {x: -0.0983445, y: 0.12994345, z: 0.040613938}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ L Toe31
+      position: {x: -0.061551318, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: HARPY_ L Toe32
+      position: {x: -0.070611216, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ L Toe0
+      position: {x: 0.0078380015, y: -0.0052670813, z: 0.006040888}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.9999997, y: 0.9999998, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ L Toe01
+      position: {x: -0.04808994, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.9999998}
+      transformModified: 1
+    - name: HARPY_ L Toe02
+      position: {x: -0.048011187, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Thigh
+      position: {x: 0.10223862, y: 0.00022083908, z: -0.10986132}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ R Calf
+      position: {x: -0.42758492, y: 5.9604643e-10, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Foot
+      position: {x: -0.42758492, y: -0.000000014305114, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ R Toe3
+      position: {x: -0.0983445, y: 0.12994345, z: -0.04061394}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: HARPY_ R Toe31
+      position: {x: -0.061551314, y: 0, z: 0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Toe32
+      position: {x: -0.07061124, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Toe0
+      position: {x: 0.0078380015, y: -0.0052670813, z: -0.006040888}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 0.99999976, y: 0.9999997, z: 0.9999999}
+      transformModified: 1
+    - name: HARPY_ R Toe01
+      position: {x: -0.04808995, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Toe02
+      position: {x: -0.048011206, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: HARPY_ R Toe1
+      position: {x: -0.0983445, y: 0.11629115, z: 0.05612462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: HARPY_ R Toe11
+      position: {x: -0.058834877, y: 1.8189894e-14, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ R Toe12
+      position: {x: -0.06968788, y: -1.8189894e-14, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ R Toe2
+      position: {x: -0.0983445, y: 0.1347908, z: 0.010794363}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: HARPY_ R Toe21
+      position: {x: -0.06280958, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: HARPY_ R Toe22
+      position: {x: -0.06958888, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: e398b817e94608f488315868abff7178,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
