@@ -25,7 +25,7 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
-  maxTextureSize: 1024
+  maxTextureSize: 256
   textureSettings:
     filterMode: -1
     aniso: -1
@@ -47,8 +47,8 @@ TextureImporter:
   textureType: 5
   buildTargetSettings:
   - buildTarget: Web
-    maxTextureSize: 1024
-    textureFormat: 12
+    maxTextureSize: 256
+    textureFormat: -1
     compressionQuality: 50
     allowsAlphaSplitting: 0
   - buildTarget: Android
@@ -57,8 +57,8 @@ TextureImporter:
     compressionQuality: 50
     allowsAlphaSplitting: 0
   - buildTarget: Standalone
-    maxTextureSize: 1024
-    textureFormat: 12
+    maxTextureSize: 256
+    textureFormat: -1
     compressionQuality: 50
     allowsAlphaSplitting: 0
   spriteSheet:
